@@ -180,6 +180,9 @@ body {
     padding: 20px;
     width: 300px;
     text-align: center;
+    margin-bottom: 60px;
+    /* Dodatkowy margines na dole dla stopki */
+    /* Pozostałe style dla .page */
 }
 
 /* Stylizacje formularza nazwy użytkownika */
@@ -239,22 +242,44 @@ button:hover {
 }
 
 .page-logo {
-    display: block; /* Logo jako blok */
-    margin: 0 auto; /* Centrowanie logo */
-    max-width: 100%; /* Maksymalna szerokość, aby dopasować się do kontenera */
-    height: auto; /* Automatyczna wysokość dla zachowania proporcji */
-    padding: 10px 0; /* Odstęp od górnej i dolnej części kontenera */
+    display: block;
+    /* Logo jako blok */
+    margin: 0 auto;
+    /* Centrowanie logo */
+    max-width: 100%;
+    /* Maksymalna szerokość, aby dopasować się do kontenera */
+    height: auto;
+    /* Automatyczna wysokość dla zachowania proporcji */
+    padding: 10px 0;
+    /* Odstęp od górnej i dolnej części kontenera */
 }
 
 .page-footer {
-    text-align: center; /* Wyśrodkowanie tekstu */
-    padding: 10px; /* Wewnętrzne wypełnienie dla przestrzeni */
-    background-color: #f0f0f0; /* Jasne tło stopki */
-    color: #333; /* Kolor tekstu */
-    border-top: 1px solid #d1d1d1; /* Subtelna linia na górze stopki */
-    position: fixed; /* Opcjonalnie, aby stopka była zawsze na dole */
+    text-align: center;
+    /* Wyśrodkowanie tekstu */
+    padding: 10px;
+    /* Wewnętrzne wypełnienie dla przestrzeni */
+    background-color: #f0f0f0;
+    /* Jasne tło stopki */
+    color: #333;
+    /* Kolor tekstu */
+    border-top: 1px solid #d1d1d1;
+    /* Subtelna linia na górze stopki */
+    position: fixed;
+    /* Opcjonalnie, aby stopka była zawsze na dole */
     left: 0;
     bottom: 0;
     width: 100%;
-    font-size: 14px; /* Rozmiar czcionki */
+    font-size: 14px;
+    /* Rozmiar czcionki */
+    height: 50px;
+    /* Ustawienie stałej wysokości dla stopki */
+    line-height: 50px;
+    /* Centrowanie tekstu w pionie */
+}
+
+.toHomeButton {
+    margin-bottom: 60px;
+    /* Odpowiedni margines na dole, aby uniknąć nakładania się na stopkę */
+
 }
