@@ -78,108 +78,106 @@ Czy jesteś związany z regulacją ciśnienia krwi?,0,0,0,0,0,1,0,0,0,0,0
 Czy odgrywasz istotną rolę w regulacji rytmu serca?,0,0,0,0,1,0,0,0,0,0,0
 Czy jesteś wydzielany przez komórki beta trzustki?,0,0,0,0,0,0,1,0,0,0,0
 Czy zawierasz 51 aminokwasów?,0,0,0,0,0,0,1,0,0,0,0
-Czy składa się z dwóch łańcuchów polipeptydowych?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest stymulowany przez wzrost stężenia glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
-Czy wpływa na transport glukozy do komórek?,0,0,0,0,0,0,1,0,0,0,0
-Czy stymuluje syntezę glikogenu?,0,0,0,0,0,0,1,0,0,0,0
-Czy działa na mięśnie i tkankę tłuszczową?,0,0,0,0,0,0,1,0,0,0,0
-Czy obniża stężenie glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
-Czy hamuje glukoneogenezę?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest ważny w regulacji metabolizmu glukozy?,0,0,0,0,0,0,1,0,0,0,0
-Czy stymuluje wchłanianie aminokwasów?,0,0,0,0,0,0,1,0,0,0,0
-Czy obniża lipolizę?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest zaangażowany w syntezę białka?,0,0,0,0,0,0,1,0,0,0,0
-Czy jego niedobór jest związany z cukrzycą typu 1?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś stymulowany przez wzrost stężenia glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
+Czy wpływasz na transport glukozy do komórek?,0,0,0,0,0,0,1,0,0,0,0
+Czy stymulujesz syntezę glikogenu?,0,0,0,0,0,0,1,0,0,0,0
+Czy działasz na mięśnie i tkankę tłuszczową?,0,0,0,0,0,0,1,0,0,0,0
+Czy obniżasz stężenie glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
+Czy hamujesz glukoneogenezę?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś ważny w regulacji metabolizmu glukozy?,0,0,0,0,0,0,1,0,0,0,0
+Czy stymulujesz wchłanianie aminokwasów?,0,0,0,0,0,0,1,0,0,0,0
+Czy obniżasz lipolizę?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś zaangażowany w syntezę białka?,0,0,0,0,0,0,1,0,0,0,0
+Czy twój niedobór jest związany z cukrzycą typu 1?,0,0,0,0,0,0,1,0,0,0,0
 Czy nadmiar może prowadzić do hipoglikemii?,0,0,0,0,0,0,1,0,0,0,0
-Czy jego działanie jest hamowane przez glukagon?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest niezbędny w leczeniu cukrzycy typu 1?,0,0,0,0,0,0,1,0,0,0,0
-Czy odgrywa rolę w leczeniu cukrzycy typu 2?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest uwalniany w odpowiedzi na przyjmowanie pokarmu?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest ważny w procesie wzrostu komórek?,0,0,0,0,0,0,1,0,0,0,0
-Czy odgrywa rolę w regulacji metabolizmu lipidów?,0,0,0,0,0,0,1,0,0,0,0
-Czy zwiększa syntezę białek?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest wydzielany w odpowiedzi na niski poziom glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
-Czy hamuje apetyt?,1,0,0,0,0,0,0,0,0,0,0
-Czy jest odpowiedzialny za zwiększenie poziomu wapnia we krwi?,0,0,0,0,1,0,0,0,0,0,0
-Czy jest wydzielany przez nerki?,0,0,0,0,0,0,0,0,1,0,0
-Czy  dany hormon ma wpływ na skład krwi?,0,0,0,0,1,0,1,1,1,1,1
-Czy jego nadprodukcja jest bezpośrednio związana z rozwojem osteoporozy?,0,0,0,0,1,0,0,0,0,0,0
-Czy zwiększa poziom glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
-Czy stymuluje rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
-Czy prowadzi do glukoneogenezy?,0,0,0,0,0,0,0,1,0,0,0
-Czy zwiększa lipolizę?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest związany z kontrolą apetytu?,1,1,0,0,0,0,0,0,0,0,0
-Czy jego działanie jest stymulowane przez adrenalinę?,1,0,1,0,0,0,0,1,0,0,0
-Czy jest wydzielany w odpowiedzi na hipoglikemię?,0,0,0,0,0,0,0,1,0,0,0
-Czy odgrywa rolę w regulacji rytmu serca?,0,0,0,0,1,1,0,0,0,0,0
-Czy jego niedobór prowadzi do hiperglikemii?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest wydzielany przez podwzgórze?,0,0,0,0,0,0,0,0,0,0,1
-Czy dany hormon prowadzi do cukrzycy typu 1?,0,0,0,0,0,0,1,0,0,0,0
-Czy ten hormon jest produkowany przez komórki alfa wysp trzustkowych?,0,0,0,0,0,0,0,1,0,0,0
-Czy zawiera 29 aminokwasów?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest aktywowany przez niskie stężenie glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
-Czy działa przez system wtórnego przekaźnika cAMP?,0,0,0,0,0,0,0,1,0,0,0
-Czy aktywuje cyklazę adenylową?,0,0,0,0,0,0,0,1,0,0,0
-Czy pobudza rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
-Czy wpływa na wzrost stężenia glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
-Czy stymuluje glukoneogenezę w wątrobie?,0,0,0,0,0,0,0,1,0,0,0
-Czy hamuje degradację białek w wątrobie?,0,0,0,0,0,0,0,1,0,0,0
-Czy stymuluje pobieranie aminokwasów do wątroby?,0,0,0,0,0,0,0,1,0,0,0
-Czy zwiększa produkcję glukozy z niecukrowych metabolitów?,0,0,0,0,0,0,0,1,0,0,0
-Czy ma wpływ na uwalnianie glukozy z magazynów w wątrobie?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest uwalniany podczas ćwiczeń fizycznych?,0,0,0,0,0,0,0,1,0,0,0
-Czy działa głównie na komórki wątroby?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest produkowany przez komórki beta trzustki?,0,0,0,0,0,0,1,0,0,0,0
-Czy bezpośrednio obniża poziom glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest związany z syntezą glikogenu?,0,0,0,0,0,0,1,0,0,0,0
-Czy hamuje rozpad glikogenu?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest związany z obniżeniem stężenia cAMP?,0,0,0,0,0,0,1,0,0,0,0
-Czy wpływa na zwiększenie wchłaniania glukozy przez mięśnie?,0,0,0,0,0,0,1,0,0,0,0
-Czy  wpływa na transport aminokwasów do mięśni?,0,0,0,0,0,0,1,0,0,0,0
-Czy  wpływa na metabolizm lipidów?,0,0,0,0,0,0,1,1,0,0,0
-Czy ten hormon jest pochodną witaminy D?,0,0,0,0,0,0,0,0,1,0,0
-Czy jest syntetyzowany w nerkach?,0,0,0,0,0,0,0,0,1,0,0
-Czy jego produkcja jest stymulowana przez światło ultrafioletowe?,0,0,0,0,0,0,0,0,1,0,0
-Czy sprzyja resorpcji wapnia w jelitach?,0,0,0,0,0,0,0,0,1,0,0
-Czy podnosi stężenie wapnia we krwi?,0,0,0,0,1,0,0,0,1,0,0
-Czy obniża stężenie wapnia we krwi?,0,0,0,0,0,0,0,0,0,1,0
-Czy jego nadmierna aktywność prowadzi do hipokalcemii?,0,0,0,0,0,0,0,0,0,1,0
-Czy ten hormon jest produkowany przez komórki C tarczycy?,0,0,0,0,0,0,0,0,0,1,0
-Czy obniża stężenie wapnia we krwi?,0,0,0,0,0,0,0,0,0,1,0
-Czy działa antagonistycznie do innego hormonu regulującego poziom wapnia?,0,0,0,0,1,0,0,0,0,1,0
-Czy obniża absorpcję wapnia z jelit?,0,0,0,0,0,0,0,0,0,1,0
-Czy zmniejsza aktywność osteoklastów w kościach?,0,0,0,0,0,0,0,0,0,1,0
-Czy obniża reabsorpcję wapnia i fosforu w kanalikach nerkowych?,0,0,0,0,0,0,0,0,0,1,0
-Czy hamuje resorpcję kości pobudzaną przez inny hormon?,0,0,0,0,0,0,0,0,0,1,0
-"Czy chroni przed utratą wapnia z kości podczas stresu, ciąży i laktacji?",0,0,0,0,1,0,0,0,0,1,0
-Czy reguluje stężenie witaminy D?,0,0,0,0,1,0,0,0,1,1,0
-Czy jest hormonem sytości?,1,0,0,0,0,0,0,0,0,1,0
-Czy hormon ten zbudowany jest z 32 aminokwasów?,0,0,0,0,0,0,0,0,0,1,0
-Czy jego fizjologicznym stymulatorem jest wzrost stężenia wapnia w osoczu?,0,0,0,0,0,0,0,0,0,1,0
-Czy działa na tkankę kostną?,0,0,0,0,1,0,0,0,0,1,0
-Czy wpływa na zmniejszenie stężenia jonów fosforanowych w osoczu?,0,0,0,0,1,0,0,0,0,1,0
-Czy jest produkowany przez przytarczyce?,0,0,0,0,1,0,0,0,0,0,0
-Czy podnosi stężenie wapnia we krwi?,0,0,0,0,1,0,0,0,1,0,0
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,1,0,0
-Czy odgrywa rolę w procesie trawienia?,0,1,0,0,0,0,0,0,0,0,0
-Czy jest wydzielany przez nerki?,0,0,0,0,0,0,0,0,1,0,0
-Czy jest odpowiedzialny za zwiększenie produkcji insuliny?,1,0,0,0,0,0,0,0,0,0,0
-Czy stymuluje rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest głównym regulatorem metabolizmu glukozy?,0,0,0,0,0,0,1,1,0,0,0
-Czy wpływa na zwiększenie wchłaniania glukozy przez mięśnie?,1,0,0,0,0,0,1,0,0,0,0
-Czy jest związany z regulacją metabolizmu białek?,0,0,0,0,0,0,1,0,0,0,0
-Czy ten hormon jest oligopeptydem?,0,0,0,0,0,0,0,0,0,0,1
-Czy jest wydzielany przez podwzgórze?,0,0,0,0,0,0,0,0,0,0,1
-Czy magazynowany jest w tylnym płacie przysadki?,0,0,0,0,0,0,0,0,0,0,1
-Czy wpływa na resorpcję wody w kanalikach nerkowych?,0,0,0,0,0,0,0,0,0,0,1
-Czy jest badany w celu diagnozowania moczówki prostej?,0,0,0,0,0,0,0,0,0,0,1
-Czy ma wpływ na pragnienie?,0,0,0,0,0,0,0,0,0,0,1
-Czy jest związany z zespołem SIADH?,0,0,0,0,0,0,0,0,0,0,1
-Czy wpływa na gospodarkę wodno-elektrolitową organizmu?,0,0,0,0,1,0,0,0,1,0,1
+Czy twoje działanie jest hamowane przez glukagon?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś niezbędny w leczeniu cukrzycy typu 1?,0,0,0,0,0,0,1,0,0,0,0
+Czy odgrywasz rolę w leczeniu cukrzycy typu 2?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś uwalniany w odpowiedzi na przyjmowanie pokarmu?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś ważny w procesie wzrostu komórek?,0,0,0,0,0,0,1,0,0,0,0
+Czy odgrywasz rolę w regulacji metabolizmu lipidów?,0,0,0,0,0,0,1,0,0,0,0
+Czy zwiększasz syntezę białek?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś wydzielany w odpowiedzi na niski poziom glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
+Czy hamujesz apetyt?,1,0,0,0,0,0,0,0,0,0,0
+Czy jesteś odpowiedzialny za zwiększenie poziomu wapnia we krwi?,0,0,0,0,1,0,0,0,0,0,0
+Czy jesteś wydzielany przez nerki?,0,0,0,0,0,0,0,0,1,0,0
+Czy masz wpływ na skład krwi?,0,0,0,0,1,0,1,1,1,1,1
+Czy twoja nadprodukcja jest bezpośrednio związana z rozwojem osteoporozy?,0,0,0,0,1,0,0,0,0,0,0
+Czy zwiększasz poziom glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
+Czy stymulujesz rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
+Czy prowadzisz do glukoneogenezy?,0,0,0,0,0,0,0,1,0,0,0
+Czy zwiększasz lipolizę?,0,0,0,0,0,0,0,1,0,0,0
+Czy jesteś związany z kontrolą apetytu?,1,1,0,0,0,0,0,0,0,0,0
+Czy twoje działanie jest stymulowane przez adrenalinę?,1,0,1,0,0,0,0,1,0,0,0
+Czy jesteś wydzielany w odpowiedzi na hipoglikemię?,0,0,0,0,0,0,0,1,0,0,0
+Czy odgrywasz rolę w regulacji rytmu serca?,0,0,0,0,1,1,0,0,0,0,0
+Czy twój niedobór prowadzi do hiperglikemii?,0,0,0,0,0,0,0,1,0,0,0
+Czy jesteś wydzielany przez podwzgórze?,0,0,0,0,0,0,0,0,0,0,1
+Czy prowadzisz do cukrzycy typu 1?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś produkowany przez komórki alfa wysp trzustkowych?,0,0,0,0,0,0,0,1,0,0,0
+Czy zawierasz 29 aminokwasów?,0,0,0,0,0,0,0,1,0,0,0
+Czy jesteś aktywowany przez niskie stężenie glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
+Czy działasz przez system wtórnego przekaźnika cAMP?,0,0,0,0,0,0,0,1,0,0,0
+Czy aktywujesz cyklazę adenylową?,0,0,0,0,0,0,0,1,0,0,0
+Czy pobudzasz rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
+Czy wpływasz na wzrost stężenia glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
+Czy stymulujesz glukoneogenezę w wątrobie?,0,0,0,0,0,0,0,1,0,0,0
+Czy hamujesz degradację białek w wątrobie?,0,0,0,0,0,0,0,1,0,0,0
+Czy stymulujesz pobieranie aminokwasów do wątroby?,0,0,0,0,0,0,0,1,0,0,0
+Czy zwiększasz produkcję glukozy z niecukrowych metabolitów?,0,0,0,0,0,0,0,1,0,0,0
+Czy masz wpływ na uwalnianie glukozy z magazynów w wątrobie?,0,0,0,0,0,0,0,1,0,0,0
+Czy jesteś uwalniany podczas ćwiczeń fizycznych?,0,0,0,0,0,0,0,1,0,0,0
+Czy działasz głównie na komórki wątroby?,0,0,0,0,0,0,0,1,0,0,0
+Czy jesteś produkowany przez komórki beta trzustki?,0,0,0,0,0,0,1,0,0,0,0
+Czy bezpośrednio obniżasz poziom glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś związany z syntezą glikogenu?,0,0,0,0,0,0,1,0,0,0,0
+Czy hamujesz rozpad glikogenu?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś związany z obniżeniem stężenia cAMP?,0,0,0,0,0,0,1,0,0,0,0
+Czy wpływasz na zwiększenie wchłaniania glukozy przez mięśnie?,0,0,0,0,0,0,1,0,0,0,0
+Czy wpływasz na transport aminokwasów do mięśni?,0,0,0,0,0,0,1,0,0,0,0
+Czy wpływasz na metabolizm lipidów?,0,0,0,0,0,0,1,1,0,0,0
+Czy jesteś pochodną witaminy D?,0,0,0,0,0,0,0,0,1,0,0
+Czy jesteś syntetyzowany w nerkach?,0,0,0,0,0,0,0,0,1,0,0
+Czy twoja produkcja jest stymulowana przez światło ultrafioletowe?,0,0,0,0,0,0,0,0,1,0,0
+Czy sprzyjasz resorpcji wapnia w jelitach?,0,0,0,0,0,0,0,0,1,0,0
+Czy podnosisz stężenie wapnia we krwi?,0,0,0,0,1,0,0,0,1,0,0
+Czy obniżasz stężenie wapnia we krwi?,0,0,0,0,0,0,0,0,0,1,0
+Czy twoja nadmierna aktywność prowadzi do hipokalcemii?,0,0,0,0,0,0,0,0,0,1,0
+Czy jesteś produkowany przez komórki C tarczycy?,0,0,0,0,0,0,0,0,0,1,0
+Czy obniżasz stężenie wapnia we krwi?,0,0,0,0,0,0,0,0,0,1,0
+Czy działasz antagonistycznie do innego hormonu regulującego poziom wapnia?,0,0,0,0,1,0,0,0,0,1,0
+Czy obniżasz absorpcję wapnia z jelit?,0,0,0,0,0,0,0,0,0,1,0
+Czy zmniejszasz aktywność osteoklastów w kościach?,0,0,0,0,0,0,0,0,0,1,0
+Czy obniżasz reabsorpcję wapnia i fosforu w kanalikach nerkowych?,0,0,0,0,0,0,0,0,0,1,0
+Czy hamujesz resorpcję kości pobudzaną przez inny hormon?,0,0,0,0,0,0,0,0,0,1,0
+"Czy chronisz przed utratą wapnia z kości podczas stresu, ciąży i laktacji?",0,0,0,0,1,0,0,0,0,1,0
+Czy regulujesz stężenie witaminy D?,0,0,0,0,1,0,0,0,1,1,0
+Czy jesteś hormonem sytości?,1,0,0,0,0,0,0,0,0,1,0
+Czy jesteś zbudowany z 32 aminokwasów?,0,0,0,0,0,0,0,0,0,1,0
+Czy twój fizjologicznym stymulatorem jest wzrost stężenia wapnia w osoczu?,0,0,0,0,0,0,0,0,0,1,0
+Czy działasz na tkankę kostną?,0,0,0,0,1,0,0,0,0,1,0
+Czy wpływasz na zmniejszenie stężenia jonów fosforanowych w osoczu?,0,0,0,0,1,0,0,0,0,1,0
+Czy jesteś produkowany przez przytarczyce?,0,0,0,0,1,0,0,0,0,0,0
+Czy podnosisz stężenie wapnia we krwi?,0,0,0,0,1,0,0,0,1,0,0
+Czy jesteś hormonem steroidowym?,0,0,0,0,0,0,0,0,1,0,0
+Czy odgrywasz rolę w procesie trawienia?,0,1,0,0,0,0,0,0,0,0,0
+Czy jesteś wydzielany przez nerki?,0,0,0,0,0,0,0,0,1,0,0
+Czy jesteś odpowiedzialny za zwiększenie produkcji insuliny?,1,0,0,0,0,0,0,0,0,0,0
+Czy jesteś głównym regulatorem metabolizmu glukozy?,0,0,0,0,0,0,1,1,0,0,0
+Czy wpływasz na zwiększenie wchłaniania glukozy przez mięśnie?,1,0,0,0,0,0,1,0,0,0,0
+Czy jesteś związany z regulacją metabolizmu białek?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś oligopeptydem?,0,0,0,0,0,0,0,0,0,0,1
+Czy jesteś wydzielany przez podwzgórze?,0,0,0,0,0,0,0,0,0,0,1
+Czy magazynowany jesteś w tylnym płacie przysadki?,0,0,0,0,0,0,0,0,0,0,1
+Czy wpływasz na resorpcję wody w kanalikach nerkowych?,0,0,0,0,0,0,0,0,0,0,1
+Czy jesteś badany w celu diagnozowania moczówki prostej?,0,0,0,0,0,0,0,0,0,0,1
+Czy masz wpływ na pragnienie?,0,0,0,0,0,0,0,0,0,0,1
+Czy jesteś związany z zespołem SIADH?,0,0,0,0,0,0,0,0,0,0,1
+Czy wpływasz na gospodarkę wodno-elektrolitową organizmu?,0,0,0,0,1,0,0,0,1,0,1
 Czy zbyt niski poziom może prowadzić do zwiększonego wydalania moczu?,0,0,0,0,0,0,0,0,0,0,1
 Czy zbyt wysoki poziom może prowadzić do obniżenia poziomu sodu we krwi?,0,0,0,0,0,0,0,0,0,0,1
-Czy jego nadmiar może powodować zaburzenia neurologiczne?,0,0,0,0,1,1,1,0,0,0,1
-Czy jest testowany w przypadkach nieprawidłowego wydzielania moczu?,0,0,0,0,0,0,0,0,0,0,1
-Czy ma wpływ na funkcje nerek?,0,0,0,0,1,0,0,0,0,0,1
-Czy jest produkowany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
-Czy bezpośrednio obniża poziom glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
+Czy twój nadmiar może powodować zaburzenia neurologiczne?,0,0,0,0,1,1,1,0,0,0,1
+Czy jesteś testowany w przypadkach nieprawidłowego wydzielania moczu?,0,0,0,0,0,0,0,0,0,0,1
+Czy masz wpływ na funkcje nerek?,0,0,0,0,1,0,0,0,0,0,1
+Czy jesteś produkowany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
+Czy bezpośrednio obniżasz poziom glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
