@@ -28,7 +28,9 @@ function setupPageNavigationButtons() {
     });
     document.querySelector('.toHomeButton').addEventListener('click', resetQuiz);
     document.getElementById('submitNameButton').addEventListener('click', saveUserName);
+    document.querySelector('.toHomeButtonFR').addEventListener('click', () => showPage('home'));
 }
+
 
 function resetQuiz() {
     score = 0; // Zerowanie wyniku
