@@ -1,103 +1,83 @@
 , LEPTYNA ,GRELINA,REZYSTYNA,APELINA,PARATHORMON,HISTAMINA,INSULINA,GLUKAGON,KALCYTRIOL,KALCYTONINA,WAZOPRESYNA
-Czy dany hormon jest magazynowany i wydzielany przez adipocyty?,1,0,1,0,0,0,0,0,0,0,0
-Czy jest syntetyzowany w wątrobie?,1,0,0,0,0,0,0,0,0,0,0
-Czy sygnalizuje potrzebę zakończenia jedzenia?,1,0,0,0,0,0,0,0,0,0,0
-Czy aktywuje kinazy białkowe JAK i fosforylację STAT?,1,0,0,0,0,0,0,0,0,0,0
-Czy głównym efektem tego hormonu jest uczucie sytości?,1,0,0,0,0,0,0,0,0,0,0
-Czy stymuluje os podwzgórze-przysadka-tarczyca?,1,0,0,0,0,0,0,0,0,0,0
-Czy obniża stężenie glukozy we krwi?,1,0,0,0,0,0,1,0,0,0,0
-Czy stężenie tego hormonu u kobiet jest wyższe niż u mężczyzn?,1,0,0,0,0,0,0,0,0,0,0
-Czy estrogeny wpływają na jego stężenie u kobiet?,1,0,0,0,0,0,0,0,0,0,0
-Czy działa insulinopodobnie?,1,0,0,0,0,0,0,0,0,0,0
-Czy stymuluje os podwzgórze-przysadka-gonady?,1,0,0,0,0,0,0,0,0,0,0
-Czy zwiększa zużycie energii przez organizm?,1,0,0,0,0,0,0,0,0,0,0
-Czy dany hormon jest produkowany przez mięśnie szkieletowe?,0,0,0,0,0,0,0,0,0,0,0
-Czy bezpośrednio obniża apetyt?,1,0,0,0,0,0,0,0,0,0,0
-Czy dany hormon jest wydzielany w żołądku?,0,1,0,0,0,0,0,0,0,0,0
-Czy wzrost jego stężenia sygnalizuje mózgowi głód?,0,1,0,0,0,0,0,0,0,0,0
-Czy jest znany jako stymulator apetytu?,0,1,0,0,0,0,0,0,0,0,0
-Czy ma wpływ na pobudzenie łaknienia?,0,1,0,0,0,0,0,0,0,0,0
-Czy dany hormon jest głównie wydzielany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
-Czy jest odpowiedzialny za zmniejszenie apetytu?,1,0,0,0,0,0,0,0,0,0,0
-Czy jego podwyższone stężenie jest związane z uczuciem sytości?,1,0,0,0,0,0,0,0,0,0,0
-Czy ten hormon jest białkowy?,1,1,1,1,1,0,1,1,0,1,1
-Czy  źródłem tego hormonu są adipocyty?,1,0,1,1,0,0,0,0,0,0,0
-Czy przyczynia się on do zmniejszenia wrażliwości komórek na insulinę?,0,0,1,0,0,0,0,0,0,0,0
-Czy aktywuje enzymy odpowiedzialne za glukoneogenezę?,0,0,1,0,0,0,0,0,0,0,0
-Czy stymuluje glikogenolizę w hepatocytach?,0,0,1,0,0,0,0,1,0,0,0
-Czy hamuje ekspresję transporterów glukozy GLUT4 w mięśniach i adipocytach?,0,0,1,0,0,0,0,0,0,0,0
-Czy jego fizjologiczną rolą jest podtrzymywanie glikemii podczas głodu?,0,0,1,0,0,0,0,1,0,0,0
-Czy jego patologiczny efekt wiąże się z powstawaniem nadmiernej ilości tkanki tłuszczowej?,0,1,1,0,0,0,1,0,0,0,0
-Czy jest wydzielany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
-Czy odgrywa rolę w regulacji gospodarki wodnej organizmu?,0,0,0,0,0,0,0,0,0,0,1
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest związany z otyłością?,0,1,1,1,0,0,0,0,0,0,0
-Czy stężenie tego hormonu wzrasta po posiłku?,0,0,0,1,0,0,1,0,0,0,0
-Czy ten hormon jest związany z regulacją metabolizmu białek?,0,0,0,0,0,0,1,1,0,0,0
-Czy ma działanie przeciwzapalne?,0,0,0,0,0,0,0,0,0,0,0
-Czy ten hormon jest wydzielany przez przytarczyce?,0,0,0,0,1,0,0,0,0,0,0
-Czy zawiera 84 aminokwasy?,0,0,0,0,1,0,0,0,0,0,0
-Czy powoduje wzrost stężenia jonów Ca2+ we krwi?,0,0,0,0,1,0,0,0,0,0,0
-"Czy działa poprzez receptory zlokalizowane w kościach, nerkach i jelitach?",0,0,0,0,1,0,0,0,0,0,0
-Czy okres półtrwania tego hormonu wynosi około 4 minut?,0,0,0,0,1,0,0,0,0,0,0
-Czy pobudza uwalnianie wapnia z kości?,0,0,0,0,1,0,0,0,0,0,0
-Czy stymuluje resorpcję kości przez osteoklasty?,0,0,0,0,1,0,0,0,0,0,0
-Czy łączy się z osteoblastami?,0,0,0,0,1,0,0,0,0,0,0
-Czy pobudza aktywną reabsorpcję wapnia i magnezu z kanalików dalszych i pętli wstępującej?,0,0,0,0,1,0,0,0,0,0,0
-Czy pobudza reabsorpcję wapnia z jelit poprzez wzrost produkcji aktywnej witaminy D?,0,0,0,0,1,0,0,0,0,0,0
-Czy prowadzi do przekształcenia witaminy D do jej aktywnej formy?,0,0,0,0,1,0,0,0,0,0,0
-Czy redukuje reabsorpcję fosforanów z kanalików nerkowych?,0,0,0,0,1,0,0,0,0,0,0
-Czy dany hormon wydzielany jest  w przypadku spadku stężenia Ca2+ w osoczu?,0,0,0,0,1,0,0,0,0,0,0
-Czy może być nadmiernie wydzielany w przypadku nadczynności przytarczyc?,0,0,0,0,1,0,0,0,0,0,0
+Czy jesteś hormonem magazynowanym i wydzielanym przez adipocyty?,1,0,1,0,0,0,0,0,0,0,0
+Czy jesteś syntetyzowany w wątrobie?,1,0,0,0,0,0,0,0,0,0,0
+Czy sygnalizujesz potrzebę zakończenia jedzenia?,1,0,0,0,0,0,0,0,0,0,0
+Czy aktywujesz kinazy białkowe JAK i fosforylację STAT?,1,0,0,0,0,0,0,0,0,0,0
+Czy głównym efektem twojego działania jest uczucie sytości?,1,0,0,0,0,0,0,0,0,0,0
+Czy stymulujesz oś podwzgórze-przysadka-tarczyca?,1,0,0,0,0,0,0,0,0,0,0
+Czy obniżasz stężenie glukozy we krwi?,1,0,0,0,0,0,1,0,0,0,0
+Czy twoje stężenie u kobiet jest wyższe niż u mężczyzn?,1,0,0,0,0,0,0,0,0,0,0
+Czy estrogeny wpływają na twoje stężenie u kobiet?,1,0,0,0,0,0,0,0,0,0,0
+Czy działasz insulinopodobnie?,1,0,0,0,0,0,0,0,0,0,0
+Czy stymulujesz oś podwzgórze-przysadka-gonady?,1,0,0,0,0,0,0,0,0,0,0
+Czy zwiększasz zużycie energii przez organizm?,1,0,0,0,0,0,0,0,0,0,0
+Czy bezpośrednio obniżasz apetyt?,1,0,0,0,0,0,0,0,0,0,0
+Czy jesteś wydzielany w żołądku?,0,1,0,0,0,0,0,0,0,0,0
+Czy wzrost twojego stężenia sygnalizuje mózgowi głód?,0,1,0,0,0,0,0,0,0,0,0
+Czy jesteś znany jako stymulator apetytu?,0,1,0,0,0,0,0,0,0,0,0
+Czy masz wpływ na pobudzenie łaknienia?,0,1,0,0,0,0,0,0,0,0,0
+Czy głównie jesteś wydzielany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
+Czy jesteś odpowiedzialny za zmniejszenie apetytu?,1,0,0,0,0,0,0,0,0,0,0
+Czy twoje podwyższone stężenie jest związane z uczuciem sytości?,1,0,0,0,0,0,0,0,0,0,0
+Czy jesteś hormonem białkowym?,1,1,1,1,1,0,1,1,0,1,1
+Czy źródłem twojego pochodzenia są adipocyty?,1,0,1,1,0,0,0,0,0,0,0
+Czy przyczyniasz się do zmniejszenia wrażliwości komórek na insulinę?,0,0,1,0,0,0,0,0,0,0,0
+Czy aktywujesz enzymy odpowiedzialne za glukoneogenezę?,0,0,1,0,0,0,0,0,0,0,0
+Czy stymulujesz glikogenolizę w hepatocytach?,0,0,1,0,0,0,0,1,0,0,0
+Czy hamujesz ekspresję transporterów glukozy GLUT4 w mięśniach i adipocytach?,0,0,1,0,0,0,0,0,0,0,0
+Czy twoją fizjologiczną rolą jest podtrzymywanie glikemii podczas głodu?,0,0,1,0,0,0,0,1,0,0,0
+Czy twój patologiczny efekt wiąże się z powstawaniem nadmiernej ilości tkanki tłuszczowej?,0,1,1,0,0,0,1,0,0,0,0
+Czy jesteś wydzielany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
+Czy odgrywasz rolę w regulacji gospodarki wodnej organizmu?,0,0,0,0,0,0,0,0,0,0,1
+Czy jesteś związany z otyłością?,0,1,1,1,0,0,0,0,0,0,0
+Czy twoje stężenie wzrasta po posiłku?,0,0,0,1,0,0,1,0,0,0,0
+Czy jesteś związany z regulacją metabolizmu białek?,0,0,0,0,0,0,1,1,0,0,0
+Czy jesteś wydzielany przez przytarczyce?,0,0,0,0,1,0,0,0,0,0,0
+Czy zawierasz 84 aminokwasy?,0,0,0,0,1,0,0,0,0,0,0
+Czy powodujesz wzrost stężenia jonów Ca2+ we krwi?,0,0,0,0,1,0,0,0,0,0,0
+"Czy działasz poprzez receptory zlokalizowane w kościach, nerkach i jelitach?",0,0,0,0,1,0,0,0,0,0,0
+Czy pobudzasz uwalnianie wapnia z kości?,0,0,0,0,1,0,0,0,0,0,0
+Czy stymulujesz resorpcję kości przez osteoklasty?,0,0,0,0,1,0,0,0,0,0,0
+Czy łączysz się z osteoblastami?,0,0,0,0,1,0,0,0,0,0,0
+Czy pobudzasz aktywną reabsorpcję wapnia i magnezu z kanalików dalszych i pętli wstępującej?,0,0,0,0,1,0,0,0,0,0,0
+Czy pobudzasz reabsorpcję wapnia z jelit poprzez wzrost produkcji aktywnej witaminy D?,0,0,0,0,1,0,0,0,0,0,0
+Czy prowadzisz do przekształcenia witaminy D do jej aktywnej formy?,0,0,0,0,1,0,0,0,0,0,0
+Czy redukujesz reabsorpcję fosforanów z kanalików nerkowych?,0,0,0,0,1,0,0,0,0,0,0
+Czy jesteś wydzielany w przypadku spadku stężenia Ca2+ w osoczu?,0,0,0,0,1,0,0,0,0,0,0
+Czy możesz być nadmiernie wydzielany w przypadku nadczynności przytarczyc?,0,0,0,0,1,0,0,0,0,0,0
 Czy nadmierna produkcja może prowadzić do podwyższenia poziomu wapnia we krwi?,0,0,0,0,1,0,0,0,0,0,0
-Czy hormon ten może powodować osłabienie kości?,0,0,0,0,1,0,0,0,0,0,0
-Czy ten hormon na wpływ na powstanie nadczynności tarczycy?,0,0,0,0,1,0,0,0,0,0,0
-Czy może powodować wzrost wydzielania przy spadku stężenia wapnia w osoczu?,0,0,0,0,1,0,0,0,0,0,0
-Czy jego nadmierna produkcja może prowadzić do podwyższenia poziomu wapnia we krwi?,0,0,0,0,1,0,0,0,0,0,0
-Czy jego niskie stężenie może prowadzić do hipokalcemii?,0,0,0,0,1,0,0,0,0,0,0
-Czy ten hromon może wywołać hipokalcemię?,0,0,0,0,1,0,0,0,0,0,0
-Czy uszkodzenie przytarczyc ma wpływ na ten hormon?,0,0,0,0,1,0,0,0,0,0,0
-Czy jego niskie stężenie może prowadzić do zaburzeń rytmu serca?,0,0,0,0,1,0,0,0,0,0,0
-Czy może być związany z chronicznym zmęczeniem?,0,0,0,0,1,0,0,0,0,0,0
-Czy jest wydzielany przez trzustkę?,0,0,0,0,0,0,0,0,0,0,0
-Czy obniża stężenie jonów Ca2+ we krwi?,0,0,0,0,0,0,0,0,0,0,0
-Czy działa antagonistycznie do kalcytoniny?,0,0,0,0,1,0,0,0,0,0,0
-Czy jest wydzielany w odpowiedzi na wysoki poziom fosforanów we krwi?,0,0,0,0,0,1,0,0,0,0,0
-Czy ma wpływ na regulację ciśnienia krwi?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest związany z regulacją metabolizmu cukrów?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest wydzielany przez nerki? Czy jest odpowiedzialny za absorpcję witamin rozpuszczalnych w tłuszczach?,0,0,0,0,0,0,0,0,0,0,0
-Czy stymuluje wydzielanie hormonów tarczycy?,0,0,0,0,0,0,0,0,0,0,0
-Czy ma wpływ na metabolizm tłuszczów?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest związany z regulacją gospodarki wodnej organizmu?,0,0,0,0,0,0,0,0,0,0,0
-Czy odgrywa bezpośrednią rolę w regulacji apetytu?,0,0,0,0,0,0,0,0,0,0,0
-Czy jego nadmierna aktywność jest związana z cukrzycą?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest bezpośrednio związany z regulacją gospodarki wapniowej w organizmie?,0,0,0,0,1,0,0,0,0,1,0
-Czy ten hormon powstaje w procesie dekarboksylacji histydyny?,0,0,0,0,0,1,0,0,0,0,0
-Czy  hormon ten gromadzi się w komórkach tucznych?,0,0,0,0,0,1,0,0,0,0,0
-Czy wpływa na napięcie mięśni gładkich?,0,0,0,0,0,1,0,0,0,0,0
-Czy reguluje przebieg reakcji alergicznych?,0,0,0,0,0,1,0,0,0,0,0
-Czy jego uwolnienie powoduje rozszerzenie naczyń krwionośnych?,0,0,0,0,0,1,0,0,0,0,0
-Czy może zwiększać przepuszczalność ścian naczyń krwionośnych?,0,0,0,0,0,1,0,0,0,0,0
-Czy jest odpowiedzialny za powstanie miejscowego zaczerwienienia i obrzęku?,0,0,0,0,0,1,0,0,0,0,0
-Czy pośredniczy w pobudzeniu receptorów bólu?,0,0,0,0,0,1,0,0,0,0,0
-"Czy może prowadzić do ""przesadnej"" reakcji organizmu na alergeny?",0,0,0,0,0,1,0,0,0,0,0
-"Czy jest odpowiedzialny za objawy alergii takie jak świąd skóry, katar czy zaczerwienienie oczu?",0,0,0,0,0,1,0,0,0,0,0
-Czy jego uwolnienie może prowadzić do wstrząsu anafilaktycznego?,0,0,0,0,0,1,0,0,0,0,0
-Czy dany hormon może wywołać wstrząs anafilaktyczny?,0,0,0,0,0,1,0,0,0,0,0
-"Czy jego objawy mogą obejmować duszności, skurcz oskrzeli czy nagły spadek ciśnienia krwi?",0,0,0,0,0,1,0,0,0,0,0
-Czy jest wydzielany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
-Czy obniża poziom cukru we krwi?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest związany z regulacją metabolizmu tłuszczów?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,0,0,0
-Czy odgrywa kluczową rolę w procesie trawienia?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest  związany z regulacją ciśnienia krwi?,0,0,0,0,0,1,0,0,0,0,0
-Czy ma działanie przeciwzapalne?,0,0,0,0,0,0,0,0,0,0,0
-Czy jest odpowiedzialny za regulację poziomu żelaza w organizmie?,0,0,0,0,0,0,0,0,0,0,0
-Czy odgrywa istotną rolę w regulacji rytmu serca?,0,0,0,0,1,0,0,0,0,0,0
-Czy jest bezpośrednio związany z regulacją gospodarki wodnej organizmu?,0,0,0,0,0,0,0,0,0,0,0
-Czy ten hormon jest wydzielany przez komórki beta trzustki?,0,0,0,0,0,0,1,0,0,0,0
-Czy zawiera 51 aminokwasów?,0,0,0,0,0,0,1,0,0,0,0
+Czy możesz powodować osłabienie kości?,0,0,0,0,1,0,0,0,0,0,0
+Czy masz wpływ na powstanie nadczynności tarczycy?,0,0,0,0,1,0,0,0,0,0,0
+Czy możesz powodować wzrost wydzielania przy spadku stężenia wapnia w osoczu?,0,0,0,0,1,0,0,0,0,0,0
+Czy twoja nadmierna produkcja może prowadzić do podwyższenia poziomu wapnia we krwi?,0,0,0,0,1,0,0,0,0,0,0
+Czy twoje niskie stężenie może prowadzić do hipokalcemii?,0,0,0,0,1,0,0,0,0,0,0
+Czy możesz wywołać hipokalcemię?,0,0,0,0,1,0,0,0,0,0,0
+Czy uszkodzenie przytarczyc ma wpływ na ciebie?,0,0,0,0,1,0,0,0,0,0,0
+Czy twoje niskie stężenie może prowadzić do zaburzeń rytmu serca?,0,0,0,0,1,0,0,0,0,0,0
+Czy możesz być związany z chronicznym zmęczeniem?,0,0,0,0,1,0,0,0,0,0,0
+Czy obniżasz stężenie jonów Ca2+ we krwi?,0,0,0,0,0,0,0,0,0,1,0
+Czy działasz antagonistycznie do kalcytoniny?,0,0,0,0,1,0,0,0,0,0,0
+Czy jesteś wydzielany w odpowiedzi na wysoki poziom fosforanów we krwi?,0,0,0,0,0,1,0,0,0,0,0
+Czy jesteś bezpośrednio związany z regulacją gospodarki wapniowej w organizmie?,0,0,0,0,1,0,0,0,0,1,0
+Czy powstajesz w procesie dekarboksylacji histydyny?,0,0,0,0,0,1,0,0,0,0,0
+Czy gromadzisz się w komórkach tucznych?,0,0,0,0,0,1,0,0,0,0,0
+Czy wpływasz na napięcie mięśni gładkich?,0,0,0,0,0,1,0,0,0,0,0
+Czy regulujesz przebieg reakcji alergicznych?,0,0,0,0,0,1,0,0,0,0,0
+Czy twoje uwolnienie powoduje rozszerzenie naczyń krwionośnych?,0,0,0,0,0,1,0,0,0,0,0
+Czy możesz zwiększać przepuszczalność ścian naczyń krwionośnych?,0,0,0,0,0,1,0,0,0,0,0
+Czy jesteś odpowiedzialny za powstanie miejscowego zaczerwienienia i obrzęku?,0,0,0,0,0,1,0,0,0,0,0
+Czy pośredniczysz w pobudzeniu receptorów bólu?,0,0,0,0,0,1,0,0,0,0,0
+"Czy możesz prowadzić do ""przesadnej"" reakcji organizmu na alergeny?",0,0,0,0,0,1,0,0,0,0,0
+"Czy jesteś odpowiedzialny za objawy alergii takie jak świąd skóry, katar czy zaczerwienienie oczu?",0,0,0,0,0,1,0,0,0,0,0
+Czy twoje uwolnienie może prowadzić do wstrząsu anafilaktycznego?,0,0,0,0,0,1,0,0,0,0,0
+Czy możesz wywołać wstrząs anafilaktyczny?,0,0,0,0,0,1,0,0,0,0,0
+"Czy twoje objawy mogą obejmować duszności, skurcz oskrzeli czy nagły spadek ciśnienia krwi?",0,0,0,0,0,1,0,0,0,0,0
+Czy jesteś wydzielany przez trzustkę?,0,0,0,0,0,0,1,1,0,0,0
+Czy obniżasz poziom cukru we krwi?,0,0,0,0,0,0,1,0,0,0,0
+Czy jesteś związany z regulacją ciśnienia krwi?,0,0,0,0,0,1,0,0,0,0,0
+Czy odgrywasz istotną rolę w regulacji rytmu serca?,0,0,0,0,1,0,0,0,0,0,0
+Czy jesteś wydzielany przez komórki beta trzustki?,0,0,0,0,0,0,1,0,0,0,0
+Czy zawierasz 51 aminokwasów?,0,0,0,0,0,0,1,0,0,0,0
 Czy składa się z dwóch łańcuchów polipeptydowych?,0,0,0,0,0,0,1,0,0,0,0
 Czy jest stymulowany przez wzrost stężenia glukozy we krwi?,0,0,0,0,0,0,1,0,0,0,0
 Czy wpływa na transport glukozy do komórek?,0,0,0,0,0,0,1,0,0,0,0
@@ -122,19 +102,15 @@ Czy jest wydzielany w odpowiedzi na niski poziom glukozy we krwi?,0,0,0,0,0,0,0,
 Czy hamuje apetyt?,1,0,0,0,0,0,0,0,0,0,0
 Czy jest odpowiedzialny za zwiększenie poziomu wapnia we krwi?,0,0,0,0,1,0,0,0,0,0,0
 Czy jest wydzielany przez nerki?,0,0,0,0,0,0,0,0,1,0,0
-Czy odgrywa rolę w produkcji hormonów płciowych?,0,0,0,0,0,0,0,0,0,0,0
 Czy  dany hormon ma wpływ na skład krwi?,0,0,0,0,1,0,1,1,1,1,1
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,0,0,0
 Czy jego nadprodukcja jest bezpośrednio związana z rozwojem osteoporozy?,0,0,0,0,1,0,0,0,0,0,0
 Czy zwiększa poziom glukozy we krwi?,0,0,0,0,0,0,0,1,0,0,0
 Czy stymuluje rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
 Czy prowadzi do glukoneogenezy?,0,0,0,0,0,0,0,1,0,0,0
 Czy zwiększa lipolizę?,0,0,0,0,0,0,0,1,0,0,0
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,0,0,0
 Czy jest związany z kontrolą apetytu?,1,1,0,0,0,0,0,0,0,0,0
 Czy jego działanie jest stymulowane przez adrenalinę?,1,0,1,0,0,0,0,1,0,0,0
 Czy jest wydzielany w odpowiedzi na hipoglikemię?,0,0,0,0,0,0,0,1,0,0,0
-Czy może być syntetyzowany przez wątrobę?,0,0,0,0,0,0,0,0,0,0,0
 Czy odgrywa rolę w regulacji rytmu serca?,0,0,0,0,1,1,0,0,0,0,0
 Czy jego niedobór prowadzi do hiperglikemii?,0,0,0,0,0,0,0,1,0,0,0
 Czy jest wydzielany przez podwzgórze?,0,0,0,0,0,0,0,0,0,0,1
@@ -159,7 +135,6 @@ Czy jest związany z syntezą glikogenu?,0,0,0,0,0,0,1,0,0,0,0
 Czy hamuje rozpad glikogenu?,0,0,0,0,0,0,1,0,0,0,0
 Czy jest związany z obniżeniem stężenia cAMP?,0,0,0,0,0,0,1,0,0,0,0
 Czy wpływa na zwiększenie wchłaniania glukozy przez mięśnie?,0,0,0,0,0,0,1,0,0,0,0
-Czy jest hormonem steroidowym?,0,0,0,0,0,0,0,0,0,0,0
 Czy  wpływa na transport aminokwasów do mięśni?,0,0,0,0,0,0,1,0,0,0,0
 Czy  wpływa na metabolizm lipidów?,0,0,0,0,0,0,1,1,0,0,0
 Czy ten hormon jest pochodną witaminy D?,0,0,0,0,0,0,0,0,1,0,0
@@ -167,9 +142,7 @@ Czy jest syntetyzowany w nerkach?,0,0,0,0,0,0,0,0,1,0,0
 Czy jego produkcja jest stymulowana przez światło ultrafioletowe?,0,0,0,0,0,0,0,0,1,0,0
 Czy sprzyja resorpcji wapnia w jelitach?,0,0,0,0,0,0,0,0,1,0,0
 Czy podnosi stężenie wapnia we krwi?,0,0,0,0,1,0,0,0,1,0,0
-Czy jest bezpośrednio syntetyzowany w skórze?,0,0,0,0,0,0,0,0,0,0,0
 Czy obniża stężenie wapnia we krwi?,0,0,0,0,0,0,0,0,0,1,0
-Czy jest hormonem wydzielanym przez przysadkę mózgową?,0,0,0,0,0,0,0,0,0,0,0
 Czy jego nadmierna aktywność prowadzi do hipokalcemii?,0,0,0,0,0,0,0,0,0,1,0
 Czy ten hormon jest produkowany przez komórki C tarczycy?,0,0,0,0,0,0,0,0,0,1,0
 Czy obniża stężenie wapnia we krwi?,0,0,0,0,0,0,0,0,0,1,0
@@ -195,7 +168,6 @@ Czy stymuluje rozpad glikogenu?,0,0,0,0,0,0,0,1,0,0,0
 Czy jest głównym regulatorem metabolizmu glukozy?,0,0,0,0,0,0,1,1,0,0,0
 Czy wpływa na zwiększenie wchłaniania glukozy przez mięśnie?,1,0,0,0,0,0,1,0,0,0,0
 Czy jest związany z regulacją metabolizmu białek?,0,0,0,0,0,0,1,0,0,0,0
-Czy odgrywa bezpośrednią rolę w regulacji rytmu serca?,0,0,0,0,0,0,0,0,0,0,0
 Czy ten hormon jest oligopeptydem?,0,0,0,0,0,0,0,0,0,0,1
 Czy jest wydzielany przez podwzgórze?,0,0,0,0,0,0,0,0,0,0,1
 Czy magazynowany jest w tylnym płacie przysadki?,0,0,0,0,0,0,0,0,0,0,1

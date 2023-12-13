@@ -122,6 +122,7 @@ function answerQuestion(question, hormoneIndex) {
 
 function showHormonesList(hormones) {
     const hormonesDiv = document.getElementById('hormones');
+    hormonesDiv.style.display = 'block';
     hormonesDiv.innerHTML = hormones.map(hormone =>
         `<button class="hormone-button" onclick="guessHormone('${hormone}')">${hormone}</button>`
     ).join('');
