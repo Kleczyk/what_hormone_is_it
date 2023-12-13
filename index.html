@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <div id="home" class="page">
+        <img src="img/logo-wet.png" alt="Logo" class="page-logo">
+        <div class="user-name-form">
+            <input type="text" id="userNameInput" placeholder="Twoje imię">
+            <button id="submitNameButton">Zapisz imię</button>
+        </div>
+        <button id="toQuizButton">Rozpocznij Quiz</button>
+        <button id="toRankingButton">Ranking</button>
+    </div>
+
+    <div id="quiz" class="page" style="display:none;">
+        <img src="img/logo-wet.png" alt="Logo" class="page-logo">
+            <div class="quiz-header">
+                <h1>Zgadnij jakim hormonem jestem</h1>
+                <div id="score" class="quiz-score">Punkty: 0</div> <!-- Wyświetlacz punktów -->
+            </div>
+            
+            <!-- ... (Pozostała zawartość quizu) -->
+            <div id="options" class="quiz-options">
+                <!-- Przyciski z pytaniami będą załadowane tutaj -->
+            </div>
+            <div id="answer" class="quiz-answer">
+                <!-- Odpowiedź zostanie wyświetlona tutaj -->
+            </div>
+            <div class="quiz-footer">
+                <button id="nextButton">Dalej</button>
+                <button id="guessHormoneButton">Zgadnij hormon</button>
+            </div>
+            <div id="hormones" class="hormones-list">
+                <!-- Lista hormonów zostanie załadowana tutaj -->
+            </div>
+            <div id="result" class="result-display">
+                <!-- Wynik zgadywania hormonu zostanie wyświetlony tutaj -->
+            </div>
+            <button class="toHomeButton">Zakończ</button>
+       
+    </div>
+
+    <div id="ranking" class="page" style="display:none;">
+        <img src="img/logo-wet.png" alt="Logo" class="page-logo">
+        <h2>Ranking</h2>
+        <div id="rankingList" class="ranking">
+            <!-- Ranking zostanie wyświetlony tutaj -->
+        </div>
+        <button class="toHomeButton">Strona Główna</button>
+    </div>
+    <!-- Reszta Twojego kodu HTML -->
+
+<footer class="page-footer">
+    <p>Autorzy: Kamil Sobczyk, Aurelia Ryś</p>
+</footer>
+
+    
+    <script src="script.js"></script>
+</body>
+</html>
+

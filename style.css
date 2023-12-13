@@ -1,0 +1,260 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e5f2e5;
+    /* Delikatny zielony tło */
+}
+
+.quiz-container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.quiz-header {
+    text-align: center;
+    color: #307a30;
+    /* Cięższy zielony dla nagłówków */
+}
+
+.quiz-progress {
+    margin-bottom: 20px;
+    color: #f0db4f;
+    /* Żółty kolor tekstu */
+}
+
+.quiz-question {
+    margin-bottom: 10px;
+    color: #307a30;
+    /* Zielony kolor pytania */
+}
+
+.quiz-options {
+    list-style: none;
+    padding: 0;
+}
+
+.quiz-options li {
+    margin-bottom: 10px;
+    background-color: #f0db4f;
+    /* Żółte tło dla opcji */
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.quiz-options li:hover {
+    background-color: #c9b037;
+    /* Ciemniejszy żółty przy najechaniu */
+}
+
+.quiz-footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #307a30;
+    /* Zielone tło dla przycisków */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #245624;
+    /* Ciemniejszy zielony przy najechaniu */
+}
+
+/* Dodatkowe style do style.css */
+
+.question-button {
+    display: block;
+    /* sprawia, że przyciski zajmują całą dostępną szerokość */
+    width: 100%;
+    /* szerokość przycisku */
+    margin-bottom: 10px;
+    /* odstęp między przyciskami */
+    padding: 10px;
+    /* wewnętrzne wypełnienie przycisku */
+    font-size: 16px;
+    /* rozmiar czcionki w przycisku */
+    border: 1px solid #ddd;
+    /* obramowanie przycisku */
+    background-color: #f0db4f;
+    /* kolor tła */
+    color: #307a30;
+    /* kolor tekstu */
+    border-radius: 5px;
+    /* zaokrąglenie rogów przycisku */
+    cursor: pointer;
+    /* zmiana kursora na wskaźnik */
+}
+
+.question-button:hover {
+    background-color: #c9b037;
+    /* kolor tła przy najechaniu */
+}
+
+.question-button:disabled {
+    background-color: #cccccc;
+    color: #666666;
+    cursor: not-allowed;
+}
+
+/* Dodatkowe style do style.css */
+
+.hormones-list,
+.result-display {
+    margin-top: 15px;
+}
+
+.hormone-button {
+    display: block;
+    /* sprawia, że przyciski zajmują całą dostępną szerokość */
+    width: 100%;
+    /* szerokość przycisku */
+    margin-bottom: 10px;
+    /* odstęp między przyciskami */
+    padding: 10px;
+    /* wewnętrzne wypełnienie przycisku */
+    font-size: 16px;
+    /* rozmiar czcionki w przycisku */
+    border: 1px solid #ddd;
+    /* obramowanie przycisku */
+    background-color: #f0db4f;
+    /* kolor tła */
+    color: #307a30;
+    /* kolor tekstu */
+    border-radius: 5px;
+    /* zaokrąglenie rogów przycisku */
+    cursor: pointer;
+    /* zmiana kursora na wskaźnik */
+}
+
+.hormone-button:hover {
+    background-color: #c9b037;
+    /* kolor tła przy najechaniu */
+}
+
+.result-display {
+    font-size: 18px;
+    /* rozmiar czcionki dla wyniku */
+    color: #307a30;
+    /* kolor tekstu wyniku */
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+
+/* Stylizacje ogólne */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f7f7f7;
+}
+
+.page {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+/* Stylizacje formularza nazwy użytkownika */
+.user-name-form {
+    margin-bottom: 20px;
+}
+
+.user-name-form input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: calc(100% - 22px);
+    /* Aby uwzględnić padding i border */
+}
+
+/* Stylizacje przycisków */
+button {
+    background-color: #307a30;
+    /* Zielone tło dla przycisków */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #245624;
+    /* Ciemniejszy zielony przy najechaniu */
+}
+
+/* Stylizacje dla rankingu */
+.ranking {
+    font-size: 16px;
+    color: #307a30;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.quiz-answer {
+
+    font-size: 18px;
+    /* rozmiar czcionki dla wyniku */
+    color: #307a30;
+    /* kolor tekstu wyniku */
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.page-logo {
+    display: block; /* Logo jako blok */
+    margin: 0 auto; /* Centrowanie logo */
+    max-width: 100%; /* Maksymalna szerokość, aby dopasować się do kontenera */
+    height: auto; /* Automatyczna wysokość dla zachowania proporcji */
+    padding: 10px 0; /* Odstęp od górnej i dolnej części kontenera */
+}
+
+.page-footer {
+    text-align: center; /* Wyśrodkowanie tekstu */
+    padding: 10px; /* Wewnętrzne wypełnienie dla przestrzeni */
+    background-color: #f0f0f0; /* Jasne tło stopki */
+    color: #333; /* Kolor tekstu */
+    border-top: 1px solid #d1d1d1; /* Subtelna linia na górze stopki */
+    position: fixed; /* Opcjonalnie, aby stopka była zawsze na dole */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px; /* Rozmiar czcionki */
+}
