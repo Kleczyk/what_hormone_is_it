@@ -1,7 +1,8 @@
 let hormones = []; // Lista hormonów
 let questions = []; // Lista wszystkich pytań
 let displayedQuestions = new Set(); // Zbiór wyświetlonych pytań
-let selectedHormoneIndex = 0; // Indeks wylosowanego hormonu jako zmienna globalna
+let selectedHormoneIndex = Math.floor(Math.random() * 11); // Indeks wylosowanego hormonu jako zmienna globalna
+let new4questions = [];
 let score = 0; // Zmienna do przechowywania punktacji
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -39,7 +40,9 @@ function resetQuiz() {
     enableAllButtons(); // Włączenie wszystkich przycisków
     fetchQuestions(); // Pobranie nowych pytań
     document.getElementById('result').innerHTML = ''; // Czyszczenie wyniku
+    selectedHormoneIndex = getRandomHormoneIndex(hormones.length);
     showPage('home'); // Powrót do strony głównej
+
 }
 
 function enableAllButtons() {
@@ -58,23 +61,48 @@ function fetchQuestions() {
         .then(response => response.text())
         .then(data => {
             [hormones, ...questions] = parseCSV(data);
-            selectedHormoneIndex = getRandomHormoneIndex(hormones.length);
+            console.log("hormones" ,hormones);
+            console.log("questions",questions);
             loadNewQuestions();
         });
 }
 
 function loadNewQuestions() {
+    // Filtruj pytania, które jeszcze nie zostały wyświetlone
     const newQuestions = questions.filter(q => !displayedQuestions.has(q[0]));
-    const randomQuestions = getRandomElements(newQuestions, 4);
+
+    // Znajdź pytania, które mają odpowiedź "Tak" dla wylosowanego hormonu
+    const positiveQuestions = newQuestions.filter(q => q[selectedHormoneIndex] === '1');
+
+    // Upewnij się, że przynajmniej jedno pytanie z odpowiedzią "Tak" zostanie wybrane
+    const guaranteedPositiveQuestion = getRandomElements(positiveQuestions, 1)[0];
+
+    // Wybierz 3 inne pytania, upewniając się, że nie wybierasz gwarantowanego pozytywnego pytania
+    const otherQuestions = newQuestions.filter(q => q[0] !== guaranteedPositiveQuestion[0]);
+    const randomQuestions = getRandomElements(otherQuestions, 3);
+
+    // Dodaj gwarantowane pozytywne pytanie do losowych pytań
+    randomQuestions.push(guaranteedPositiveQuestion);
+
+    // Aktualizuj zbiór wyświetlonych pytań
     randomQuestions.forEach(q => displayedQuestions.add(q[0]));
+    console.log("randomQuestions",randomQuestions);
+    // Wyświetl wybrane pytania
     displayRandomQuestions(randomQuestions);
-    document.getElementById('answer').innerHTML = ''; // Czyszczenie poprzedniej odpowiedzi
+
+    // Wyczyść poprzednią odpowiedź
+    document.getElementById('answer').innerHTML = '';
+}
+function getRandomElements(arr, count) {
+    const shuffled = arr.slice().sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, count);
 }
 
-function displayRandomQuestions(questions) {
+function displayRandomQuestions(Nquestions) {
     const optionsDiv = document.getElementById('options');
-    optionsDiv.innerHTML = questions.map((question, index) =>
-        `<button class="question-button" onclick="selectQuestion(questions[${index}], ${selectedHormoneIndex}, this)">${question[0]}</button>`
+    new4questions = Nquestions;
+    optionsDiv.innerHTML = Nquestions.map((question, index) =>
+        `<button class="question-button" onclick="selectQuestion(new4questions[${index}], ${selectedHormoneIndex}, this)">${question[0]}</button>`
     ).join('');
 }
 
@@ -86,13 +114,13 @@ function getRandomHormoneIndex(length) {
     return Math.floor(Math.random() * length);
 }
 
-function displayRandomQuestions(questions, count) {
-    const optionsDiv = document.getElementById('options');
-    const randomQuestions = getRandomElements(questions, count);
-    optionsDiv.innerHTML = randomQuestions.map((question, index) =>
-        `<button class="question-button" onclick="selectQuestion(questions[${index}], ${selectedHormoneIndex}, this)">${question[0]}</button>`
-    ).join('');
-}
+// function displayRandomQuestions(questions, count) {
+//     const optionsDiv = document.getElementById('options');
+//     const randomQuestions = getRandomElements(questions, count);
+//     optionsDiv.innerHTML = randomQuestions.map((question, index) =>
+//         `<button class="question-button" onclick="selectQuestion(questions[${index}], ${selectedHormoneIndex}, this)">${question[0]}</button>`
+//     ).join('');
+// }
 
 function getRandomElements(arr, count) {
     const shuffled = arr.slice().sort(() => 0.5 - Math.random());
@@ -100,6 +128,7 @@ function getRandomElements(arr, count) {
 }
 
 function selectQuestion(question, hormoneIndex, button) {
+    console.log(question);
     disableQuestionButtons();
     answerQuestion(question, hormoneIndex);
 }
@@ -116,6 +145,9 @@ function disableQuestionButtons() {
 
 function answerQuestion(question, hormoneIndex) {
     const answerDiv = document.getElementById('answer');
+    console.log("hormones" ,hormones[hormoneIndex]);
+    console.log("hormoneeIndex" ,hormoneIndex);
+    console.log("hormones" ,question);
     const answer = question[hormoneIndex] === '1' ? 'Tak' : 'Nie';
     answerDiv.innerHTML = `Odpowiedź: ${answer}`;
 }
